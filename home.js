@@ -1,0 +1,1 @@
+const vare = 10;
